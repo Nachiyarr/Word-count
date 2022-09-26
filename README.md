@@ -6,8 +6,11 @@ PC
 Anaconda - Python 3.7
 ## ALGORITHM: 
 ### Step 1:
+open the text file as f6
 
-### Step 2: 
+### Step 2:
+
+
  
 ### Step 3: 
 
