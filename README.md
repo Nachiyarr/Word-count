@@ -12,7 +12,7 @@ To write a python program for getting the word count from a text file.
 Open the required file by using the function "with".
 
 ### Step 3: 
-Then use the laptop to assign the i value in the file.
+Then use the for loop to assign the i value in the file.
 
 ### Step 4:
 Using split function to spilt the words.
